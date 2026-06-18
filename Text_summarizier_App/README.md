@@ -21,6 +21,16 @@ Technologies Used
 * HTML
 * Jinja2
 
+## Demo
+
+### Input Conversation
+
+![Input](images/input.png)
+
+### Generated Summary
+
+![Output](images/output.png)
+
 Installation
 
 Clone the repository:
