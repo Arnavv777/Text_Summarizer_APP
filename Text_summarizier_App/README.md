@@ -23,13 +23,11 @@ Technologies Used
 
 ## Demo
 
-### Input Conversation
+### LOOK of Conversation
 
-![Input](images/input.png)
+![Input & Output](images/input.png)
 
-### Generated Summary
 
-![Output](images/output.png)
 
 Installation
 
